@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, My name is Nellius Linda Kyalo 👋
 
 <!--
 **Nelliuslinda/Nelliuslinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h3>About Me</h3>
 <ul>
  <li>:bulb:I like to explore new technologies and develop solutions</li>
@@ -26,34 +27,34 @@ Here are some ideas to get you started:
 <h3>:computer:Languages and Tools</h3>
 <h6>Languages and Frameworks</h6>
 
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=00d8ff)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=8892be)
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=E34F26)
-![](https://img.shields.io/badge/CodeIgniter-informational?style=flat&logo=CodeIgniter&logoColor=white&color=EF4223)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f7df1e)
-![](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=FFA518)
-![](https://img.shields.io/badge/C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=00599C)
-![](https://img.shields.io/badge/CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
-![](https://img.shields.io/badge/.NET-informational?style=flat&logo=.net&logoColor=white&color=512BD4)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00758f)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=00d8ff)
+![](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=PHP&logoColor=white&color=8892be)
+![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/CodeIgniter-informational?style=for-the-badge&logo=CodeIgniter&logoColor=white&color=EF4223)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=f7df1e)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=Java&logoColor=white&color=FFA518)
+![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=Cplusplus&logoColor=white&color=00599C)
+![](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=239120)
+![](https://img.shields.io/badge/.NET-informational?style=for-the-badge&logo=.net&logoColor=white&color=512BD4)
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=00758f)
 
 
  <h6>Style</h6>
   
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=264de4)
-![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=563d7c)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=264de4)
+![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=563d7c)
     
  <h6>Tools</h6>
   
-![](https://img.shields.io/badge/AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=FF61F6)
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=e04a34)  
-![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=181717)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=#F05032) 
-![](https://img.shields.io/badge/VisualStudio-informational?style=flat&logo=Visual-Studio&logoColor=white&color=5C2D91)
-![](https://img.shields.io/badge/VisualStudioCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/IntellijIdea-informational?style=flat&logo=Intellij-IDEA&logoColor=white&color=000000) 
-![](https://img.shields.io/badge/MicosoftSQLServer-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
-![](https://img.shields.io/badge/XAMPP-informational?style=flat&logo=XAMPP&logoColor=white&color=FB7A24)
+![](https://img.shields.io/badge/AdobeXD-informational?style=for-the-badge&logo=Adobe-XD&logoColor=white&color=FF61F6)
+![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=Figma&logoColor=white&color=e04a34)  
+![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=#F05032) 
+![](https://img.shields.io/badge/VisualStudio-informational?style=for-the-badge&logo=Visual-Studio&logoColor=white&color=5C2D91)
+![](https://img.shields.io/badge/VisualStudioCode-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/IntellijIdea-informational?style=for-the-badge&logo=Intellij-IDEA&logoColor=white&color=000000) 
+![](https://img.shields.io/badge/MicosoftSQLServer-informational?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
+![](https://img.shields.io/badge/XAMPP-informational?style=for-the-badge&logo=XAMPP&logoColor=white&color=FB7A24)
 
 <br>
 
@@ -65,6 +66,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelliuslinda&layout=compact&langs_count=6&border_color=FFFFFF&title_color=171A21" />
 </a>
 
-
+<!--
+![](https://komarev.com/ghpvc/?username=Nelliuslinda&color=green&style=for-the-badge)
+-->
 
 
