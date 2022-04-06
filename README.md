@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h4>About Me</h4>
+<h3>About Me</h3>
 <ul>
  <li>:bulb:I like to explore new technologies and develop solutions</li>
  <li>:mortar_board:I'm currently studying Informatics and Computer Science at Strathmore University</li>
  <li>:seedling:I'm currently learning Web3 and UI/UX Design
 </ul>
 
-<h4>:computer:Languages and Tools</h4>
+<br>
+
+<h3>:computer:Languages and Tools</h3>
 <h6>Languages and Frameworks</h6>
 
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=00d8ff)
@@ -52,5 +54,17 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/IntellijIdea-informational?style=flat&logo=Intellij-IDEA&logoColor=white&color=000000) 
 ![](https://img.shields.io/badge/MicosoftSQLServer-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=CC2927)
 ![](https://img.shields.io/badge/XAMPP-informational?style=flat&logo=XAMPP&logoColor=white&color=FB7A24)
+
+<br>
+
+<h3>:chart_with_upwards_trend:Github Analytics</h3>
+<a href="https://github.com/Nelliuslinda/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nelliuslinda&count_private=true&show_icons=true&border_color=FFFFFF&title_color=171A21&text_color=617073&icon_color=AFB3F7" />
+</a>
+<a href="https://github.com/Nelliuslinda/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelliuslinda&layout=compact&langs_count=6&border_color=FFFFFF&title_color=171A21" />
+</a>
+
+
 
 
