@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h3>About Me</h3>
 <ul>
  <li>:bulb:I like to explore new technologies and develop solutions</li>
- <li>:mortar_board:I'm currently studying Informatics and Computer Science at Strathmore University</li>
- <li>:seedling:I'm currently learning Web3 and UI/UX Design
+ <li>:mortar_board:I'm a Computer Science student</li>
+ <li>:seedling:I'm currently learning Web3, FrontEnd Development and UI/UX Design
 </ul>
 
 <br>
