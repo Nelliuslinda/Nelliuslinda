@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <h3>:computer:Languages and Tools</h3>
 <h6>Languages and Frameworks</h6>
 
-![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=00d8ff)
 ![](https://img.shields.io/badge/PHP-informational?style=for-the-badge&logo=PHP&logoColor=white&color=8892be)
 ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=f7df1e)
