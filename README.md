@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/.NET-informational?style=for-the-badge&logo=.net&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=00758f)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=306998)
 
 
  <h6>Style</h6>
